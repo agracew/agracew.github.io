@@ -1,0 +1,73 @@
+---
+layout: post
+title: 'February attempt'
+categories: monthly music
+excerpt: 'Just a playlist of music I particularly liked in February 2020 and
+          maybe some pics'
+---
+    <a name="intro"></a>
+<!--- intro section --->
+  <section id="one">
+    <a name="intro"></a>
+    <p>The monthly blog post was too time consuming, so I left if behind for a
+    long time. But I've decided to come back and just include the easiest bits,
+    which is music choices and maybe some photos and notes.
+      </p>
+
+    <hr />
+    <p>Quick links:</p>
+
+      <a href="#music">Music</a> |
+      <!-- link to playlist -->
+
+      <a href="#diary">Diary</a> |
+
+    <hr />
+  </section>
+
+<!--- music --->
+  <section id="music">
+    <a name="music"></a>
+  <header class="major">
+  <h2>Music</h2>
+  </header>
+    <h3>February sounds</h3>
+    <iframe src="https://open.spotify.com/embed/playlist/7G70Hv9CZjBbrMe4GSWvac" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    <p></p>
+    <br>
+
+    <p> .</p>
+
+
+    <br>
+
+    <a href="#intro">Back to top</a>
+  <hr />
+  </section>
+
+  <!--- diary --->
+  <section id="diary">
+    <a name="diary"></a>
+  <header class="major">
+    <h2>Diary</h2>
+    </header>
+    <h4>Adventures with Zack!</h4>
+    <p>Guys I got to hang out with this man 4 out of 5 weekends in September!</p>
+
+    <p> </p>
+
+
+      <article class="6u 12u$(xsmall) work-item">
+        <a href="{{ site.github.url }}/images/blog/September/kayak1.jpeg" class="image fit thumb"><img src="{{ site.github.url }}/images/blog/September/kayak1.jpeg" alt="" /></a>
+      </article>
+      <article class="4u$ 12u$(xsmall) work-item">
+        <a href="{{ site.github.url }}/images/blog/September/kayak2.JPG" class="image fit thumb"><img src="{{ site.github.url }}/images/blog/September/kayak2.JPG" alt="" /></a>
+      </article>
+
+
+    </div>
+
+    <a href="#intro">Back to top</a>
+    <p>more</p>
+    <hr />
+  </section>
